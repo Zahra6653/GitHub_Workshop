@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/z/wood-floor-green-leaves-frame-white-background-scenery-f-sky-sun-light-summer-season-design-79533908.jpg");
+ }
+h1 {
+    text-align: center;
+	color : white;
+}
+p {
+	font-style: oblique;
+    color: black;
+    text-align : center;
+}
