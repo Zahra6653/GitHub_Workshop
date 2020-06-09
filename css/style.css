@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/wood-floor-beautiful-green-leaves-frame-white-background-abstract-spring-summer-scenery-79508497.jpg");
+ }
+h1 {
+    text-align: center;
+	color : white;
+}
+p {
+	font-style: oblique;
+    color: black;
+    text-align : center;
+}
